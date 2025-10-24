@@ -14,9 +14,7 @@ const PythonWorkflow = () => {
         "Introduction to Python",
         "Data Types (integers, floats, strings, booleans)",
         "Operators & Keywords",
-        "Variables & Strings",
-        "Control Flow, Loops",
-        "Tuples, Lists, Sets, Dictionaries",
+        "Variables & Strings"
       ]
     },
     {
@@ -26,11 +24,9 @@ const PythonWorkflow = () => {
       icon: Layers,
       topics: [
         "Control Flow Deep Dive",
-        "Lists, Tuples, Sets, Frozen Sets",
-        "Dictionary Operations",
-        "Function Definitions and Scope",
-        "Problem-Solving Assignments",
-        "Advanced String Formatting",
+        "Lists, Tuples",
+        "Sets & Frozen Sets",
+        "Dictionary"
       ]
     },
     {
@@ -39,12 +35,11 @@ const PythonWorkflow = () => {
       color: "from-orange-500 to-red-500",
       icon: Brain,
       topics: [
-        "Functions: Default & Keyword Arguments",
+        "Functions Definitions",
+        "Parameter & Arguments",
         "Lambda Functions",
         "Recursive Functions",
-        "Module Imports and Packages",
-        "Final Python Assignments",
-        "Preparation for Application Phase",
+        "And many more",
       ]
     },
     {
@@ -56,7 +51,6 @@ const PythonWorkflow = () => {
         "Streamlit Setup and Basics",
         "Building Interactive UI Components",
         "Integrating Python Logic (Functions)",
-        "Handling Data Input and Output",
         "Data Visualization with Streamlit",
         "Deployment Strategy",
       ]
